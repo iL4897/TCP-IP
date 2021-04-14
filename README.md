@@ -1,2 +1,2 @@
 # Socket
-![ex_screenshot](./.png)
+![](./캡처.png)
